@@ -1,0 +1,16 @@
+title: ☀️
+author:
+  name: Ashish Malhotra
+url: "malhotraa.github.io"
+
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+minima:
+  skin: classic
+  social_links:
+    twitter: ashishm90
+    github: malhotraa
+    linkedin: amalhotra90
