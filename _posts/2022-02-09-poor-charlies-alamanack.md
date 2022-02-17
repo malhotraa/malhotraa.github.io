@@ -15,6 +15,7 @@ title:  "Poor Charlies Alamanack"
 * Why appealing to interest is better than other persuasive tools:
     > It would've been child's play to get that job done right. All the general counsel had to do was to tell his boss, "John, this situation could ruin yourlife. You could lose your wealth. You could lose your reputation." And it would have worked. CEOs don't like the idea of being ruined, disgraced, and fired.
 * Inversion: Turn a situation or problem upside down. Look at it backward.
+    > I sought good judgment mostly by collecting instances of bad judgment, then pondering ways to avoid such outcomes
 * Useful checklists:
   * The Two-Track Analysis (Pages 63, 64)
     * What are the factors that really govern the interests involved, rationally considered? (for example, macro and micro-level economic factors).
@@ -28,4 +29,43 @@ title:  "Poor Charlies Alamanack"
     * Apply elementary multidisciplinary wisdom, never relying entirely upon others.
     *  Watch for combinations of factors-the Lollapalooza effect.
   * Psychology-Based Tendencies (Pages 440-498):
-    * His famous Twenty-Five Standard Causes of Human Misjudgment.
+    * Standard Causes of Human Misjudgment.
+        >   One: Reward and Punishment Super Response Tendency
+            Two: Liking/Loving Tendency
+            Three: Disliking/Hating Tendency
+            Four: Doubt-Avoidance Tendency
+            Five: Inconsistency-Avoidance Tendency
+            Six: Curiosity Tendency
+            Seven: Kantian Fairness Tendency
+            Eight: Envy/Jealousy Tendency
+            Nine: Reciprocation Tendency
+            Ten: Influence-from-Mere- consequences from Association Tendency
+            confluences of psychological
+            Eleven: Simple, Pain-Avoiding Tendencies Acting in Favor of
+            psychological Denial a Particular outcome
+            Twelve: Excessive Self-Regard
+            Tendency
+            Thirteen: Overoptimism Tendency
+            Fourteen: Deprival-Super Reaction
+            Tendency
+            Fifteen: Social-Proof Tendency
+            Sixteen: Contrast-Misreaction
+            Tendency
+            Seventeen: Stress-Influence Tendency
+            Eighteen: Availability-Mis Weighing
+            Tendency
+            Nineteen: Use-It-or-Lose-It Tendency
+            Twenty: Drug-Misinfluence Tendency
+            Twenty-One: Senescence-Misinfluence
+            Tendency
+            Twenty-Two: Authority-Misinfluence
+            Tendency
+            Twenty-Three: Twaddle Tendency
+            Twenty-Four: Reason-Respecting Tendency
+            Twenty-Five: Lollapalooza Tendency-The Tendency to Get Extreme
+
+* Learn how to learn:
+    > Just as civilization can progress only when it invents the method of
+invention, you can progress only when you learn the method of learning.
+* On trust over bureacratic procedure:
+    > The last idea that I want to give to you, as you go out into a profession that frequently puts a lot of procedure and some mumbo jumbo into what it does, is that complex bureaucratic procedure does not represent the highest reach. One higher form is a seamless, non-bureaucratic web of deserved trust. Not much fancy procedure, just totally reliable people correctly trusting one another.
